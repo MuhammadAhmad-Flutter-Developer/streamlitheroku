@@ -2,6 +2,7 @@
 import numpy as np
 import dlib
 import cv2
+from cv2 import cv2
 from math import hypot
 import winsound
 from pygame import mixer
