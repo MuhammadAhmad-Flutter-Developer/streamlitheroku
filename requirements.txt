@@ -1,6 +1,6 @@
 dlib==19.19.0
 numpy>=1.18.5
-opencv_python==4.2.0.32
+opencv_python==4.5.5
 pygame==2.1.2
 streamlit==1.10.0
 cv2==4.5.5
